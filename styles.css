@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  background-color:#E4F9F5;
+  text-align: center;
+  font-size: 2em;
+  font-family: 'Meriiweather' , serif;
+
+}
+
+
+#DP {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  position: absolute;
+  left: 0;
+}
+td {
+  color: green;
+}
+
+
+.Intro {
+  position: relative;
+  padding-top: 80px;
+  background-color: #c5ded7;
+  width:100%;
+
+}
+.stable  {
+    height: 60px;
+    width :100%;
+    background-color: pink;
+    position: fixed;
+    top: 0;
+  }
+
+
+
+hr {
+  border-color: red;
+  border-style: none;
+  border-top-style: dotted;
+
+  width: 5%;
+  border-width: 5px;
+}
+
+
+
+.circle {
+  border-radius: 100%;
+}
+
+
+#cloud1 {
+
+
+  position: absolute;
+  right: 30%;
+  top: 7%;
+
+}
+
+#cloud2 {
+  position: absolute;
+  left: 30%;
+  top: 19%;
+}
+h1 {
+
+  margin:0 auto;
+  font-family: 'Sacramento',sans-serif;
+  font-size: 250%;
+  color: grey;
+}
+
+h2 {
+  color: lightblue;
+
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  color: red;
+  margin-top: 0;
+  line-height :1.6;
+  }
+.abbP {
+  color : gray;
+
+span {
+  display:inline;
+
+}
+
+.Contact-me {
+  background-color: #C5DED7;
+  margin-bottom: 0;
+  padding-bottom: 50px;
+}
+.logo {
+  width:2rem;
+  height: 2rem;
+}
+
+.mtn {
+  width: 100%;
+}
